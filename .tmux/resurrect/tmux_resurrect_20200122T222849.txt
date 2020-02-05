@@ -1,0 +1,19 @@
+pane	main	1	:misc	0	:	1	:/home/mmiranda	1	zsh	:
+pane	main	1	:misc	0	:	2	:/home/mmiranda	0	zsh	:
+pane	main	2	:avian	0	:	1	:/home/mmiranda/projects/ceres/osiris	0	python3	:/usr/bin/python3 /usr/bin/docker-compose up
+pane	main	2	:avian	0	:	2	:/home/mmiranda/projects/ceres/avian	0	zsh	:
+pane	main	2	:avian	0	:	3	:/home/mmiranda/projects/ceres/osiris	0	zsh	:
+pane	main	2	:avian	0	:	4	:/home/mmiranda/projects/ceres/ceres_works	0	zsh	:
+pane	main	2	:avian	0	:	5	:/home/mmiranda/projects/ceres/accounts	1	zsh	:
+pane	main	3	:tiler	0	:	1	:/home/mmiranda/projects/ceres/image-tiler	0	python3	:/usr/bin/python3 /usr/bin/docker-compose up
+pane	main	3	:tiler	0	:	2	:/home/mmiranda/projects/ceres/image-tiler	0	zsh	:
+pane	main	3	:tiler	0	:	3	:/home/mmiranda/projects/ceres/tiler-tester	1	zsh	:
+pane	main	4	:proxy	0	:-	1	:/home/mmiranda/projects/ceres/wms-proxy	1	zsh	:
+pane	main	5	:mover	1	:*	1	:/home/mmiranda/projects/ceres/imagery-mover	0	zsh	:
+pane	main	5	:mover	1	:*	2	:/home/mmiranda/projects/ceres/imagery-mover	1	zsh	:
+window	main	1	0	:	f988,211x55,0,0{105x55,0,0,14,105x55,106,0,15}
+window	main	2	0	:	c659,211x55,0,0[211x27,0,0{105x27,0,0,3,105x27,106,0,4},211x27,0,28{71x27,0,28,5,63x27,72,28,6,75x27,136,28,7}]
+window	main	3	0	:	fdea,211x55,0,0{105x55,0,0[105x27,0,0,8,105x27,0,28,9],105x55,106,0,10}
+window	main	4	0	:-	60e0,211x55,0,0,11
+window	main	5	1	:*	f986,211x55,0,0{105x55,0,0,12,105x55,106,0,13}
+state	main	
